@@ -1,0 +1,12 @@
+[
+  {
+    "name": "spi_mode0",
+    "sources": [
+      "rtl/*.sv"
+    ],
+    "tb": "verification/tb/spi_mode0.sv",
+    "top": "audit_spi",
+    "pass_marker": "AUDIT SPI PASS",
+    "assets": []
+  }
+]

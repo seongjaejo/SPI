@@ -1,0 +1,2 @@
+AUDIT SPI transactions=96 errors=0
+AUDIT SPI PASS
